@@ -1,8 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
+    <img src="./public/favicon.ico">
     <div class = "ThisSite">
       <div class="title"><h1>愛を知らせに来た佐藤</h1></div>
       <div class="explanationOne">このゲームについて</div>
