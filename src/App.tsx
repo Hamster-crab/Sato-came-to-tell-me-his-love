@@ -23,6 +23,12 @@ function App() {
         <div className="Creator">
           <img src="/image/YJSENPAI.jpg" alt="" />
           <a>製作者:田所浩二<br/>年齢  :0.24歳学生<br/>使える言語:日本語、Python、HTML、CSS、一部であるが英語</a>
+        </div><br /><br />
+        <div className='ElectronicCommerce'>
+          <h1>購入者情報</h1>
+          <div className="mail">
+            <input type="text" name="mail" id="mail" width={30} height={30} />
+          </div>
         </div>
     </div>
   );
