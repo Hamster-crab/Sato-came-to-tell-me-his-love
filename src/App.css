@@ -21,10 +21,15 @@
 }
 
 .ElectronicCommerce {
+  font-family: "Noto Serif JP", serif;
   text-align: center;
 }
 
 .ElectronicCommerce mail {
   width: 100px;
   height: 70px;
+}
+
+.ElectronicCommerce p {
+  font-size: 25px;
 }

@@ -26,9 +26,19 @@ function App() {
         </div><br /><br />
         <div className='ElectronicCommerce'>
           <h1>購入者情報</h1>
-          <div className="mail">
-            <input type="text" name="mail" id="mail" width={30} height={30} />
-          </div>
+          <label>Mail</label><br />
+          <input type="text" name="mail" id="mail" width={30} height={30} />
+          <label>カード番号</label><br />
+          <label>有効期限</label><br />
+          <select name="Card-date-of-expiry-Year" id="Card-date-of-expiry-Year">
+            <option value=""></option>
+          </select>
+          <select name="Card-date-of-expiry-Date" id="">
+            <option value=""></option>
+          </select>
+          <label>セキュリティーコード</label><br />
+          <label>名義人</label><br />
+          <label>お支払い回数</label><br />
         </div>
     </div>
   );
