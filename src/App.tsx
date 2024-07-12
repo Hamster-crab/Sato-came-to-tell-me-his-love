@@ -17,13 +17,7 @@ function App() {
           それぞれの地域での異変の正体が四神の異変とつながっているということを知る。主人公は自分の目標と世界に救出を目指すべく、弱肉強食、人間賛歌、相思相愛に気づかされる冒険に繰り出す。
           時に生き物を狩り、時に新しい仲間と出会い、時に回り道をし、時にピンチを切り抜ける。
         </div><br/><br/><br/>
-        <div className='CreatorName'>製作者</div>
-      </div>
-
-        <div className="Creator">
-          <img src="/image/YJSENPAI.jpg" alt="" />
-          <a>製作者:田所浩二<br/>年齢  :0.24歳学生<br/>使える言語:日本語、Python、HTML、CSS、一部であるが英語</a>
-        </div><br /><br />
+      </div><br /><br />
         <div className='ElectronicCommerce'>
           <h1>購入者情報</h1>
           <label>Mail</label><br />
@@ -39,6 +33,11 @@ function App() {
           <label>セキュリティーコード</label><br />
           <label>名義人</label><br />
           <label>お支払い回数</label><br />
+        </div>
+        <div className="Creator">
+          <div className='CreatorName'>製作者</div>
+          <img src="/image/YJSENPAI.jpg" alt="" />
+          <a>製作者:田所浩二<br/>年齢  :0.24歳学生<br/>使える言語:日本語、Python、HTML、CSS、一部であるが英語</a>
         </div>
     </div>
   );
