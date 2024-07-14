@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//www.satocametotellmehislove.com/static/css/main.547045e2.css",
-    "main.js": "//www.satocametotellmehislove.com/static/js/main.67463a38.js",
+    "main.css": "//www.satocametotellmehislove.com/static/css/main.5aad7d21.css",
+    "main.js": "//www.satocametotellmehislove.com/static/js/main.cdfd93cb.js",
     "static/js/453.a2fdb7fc.chunk.js": "//www.satocametotellmehislove.com/static/js/453.a2fdb7fc.chunk.js",
     "index.html": "//www.satocametotellmehislove.com/index.html",
-    "main.547045e2.css.map": "//www.satocametotellmehislove.com/static/css/main.547045e2.css.map",
-    "main.67463a38.js.map": "//www.satocametotellmehislove.com/static/js/main.67463a38.js.map",
+    "main.5aad7d21.css.map": "//www.satocametotellmehislove.com/static/css/main.5aad7d21.css.map",
+    "main.cdfd93cb.js.map": "//www.satocametotellmehislove.com/static/js/main.cdfd93cb.js.map",
     "453.a2fdb7fc.chunk.js.map": "//www.satocametotellmehislove.com/static/js/453.a2fdb7fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.547045e2.css",
-    "static/js/main.67463a38.js"
+    "static/css/main.5aad7d21.css",
+    "static/js/main.cdfd93cb.js"
   ]
 }

@@ -92,7 +92,7 @@ function App() {
         <center>
           <div className='CreatorName'>製作者</div>
           <div className="Creator">
-            <img src="/image/YJSENPAI.jpg" alt="" />
+            <img src="/image/YJSENPAI.jpg" /><br />
             <a>製作者:田所浩二<br/>年齢  :0.24歳学生<br/>使える言語:日本語、Python、HTML、CSS、一部であるが英語</a>
         </div>
         </center>

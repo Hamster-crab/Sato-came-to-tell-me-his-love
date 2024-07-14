@@ -6,13 +6,11 @@
 }
 
 .Creator {
-  display: flex;
   font-family: "Noto Serif JP", serif;
 }
 
 .Creator a {
-  margin: 0 0 0 20px;
-  padding: 0;
+  text-align: center;
   font-size: 25px;
 }
 
