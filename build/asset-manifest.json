@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.547045e2.css",
-    "main.js": "/static/js/main.a95e7293.js",
-    "static/js/453.a2fdb7fc.chunk.js": "/static/js/453.a2fdb7fc.chunk.js",
-    "index.html": "/index.html",
-    "main.547045e2.css.map": "/static/css/main.547045e2.css.map",
-    "main.a95e7293.js.map": "/static/js/main.a95e7293.js.map",
-    "453.a2fdb7fc.chunk.js.map": "/static/js/453.a2fdb7fc.chunk.js.map"
+    "main.css": "//www.satocametotellmehislove.com/static/css/main.547045e2.css",
+    "main.js": "//www.satocametotellmehislove.com/static/js/main.67463a38.js",
+    "static/js/453.a2fdb7fc.chunk.js": "//www.satocametotellmehislove.com/static/js/453.a2fdb7fc.chunk.js",
+    "index.html": "//www.satocametotellmehislove.com/index.html",
+    "main.547045e2.css.map": "//www.satocametotellmehislove.com/static/css/main.547045e2.css.map",
+    "main.67463a38.js.map": "//www.satocametotellmehislove.com/static/js/main.67463a38.js.map",
+    "453.a2fdb7fc.chunk.js.map": "//www.satocametotellmehislove.com/static/js/453.a2fdb7fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.547045e2.css",
-    "static/js/main.a95e7293.js"
+    "static/js/main.67463a38.js"
   ]
 }
