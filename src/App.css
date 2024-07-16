@@ -17,9 +17,11 @@
 .CreatorName {
   font-size: 80px;
 }
-
+.ThisGame {
+  font-size: 20px;
+}
 .ThisGame .title {
-  font-size: 30px;
+  font-size: 45px;
 }
 .ElectronicCommerce {
   font-family: "Noto Serif JP", serif;
