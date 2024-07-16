@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//www.satocametotellmehislove.com/static/css/main.5aad7d21.css",
-    "main.js": "//www.satocametotellmehislove.com/static/js/main.cdfd93cb.js",
-    "static/js/453.a2fdb7fc.chunk.js": "//www.satocametotellmehislove.com/static/js/453.a2fdb7fc.chunk.js",
-    "index.html": "//www.satocametotellmehislove.com/index.html",
-    "main.5aad7d21.css.map": "//www.satocametotellmehislove.com/static/css/main.5aad7d21.css.map",
-    "main.cdfd93cb.js.map": "//www.satocametotellmehislove.com/static/js/main.cdfd93cb.js.map",
-    "453.a2fdb7fc.chunk.js.map": "//www.satocametotellmehislove.com/static/js/453.a2fdb7fc.chunk.js.map"
+    "main.css": "/Sato-came-to-tell-me-his-love/static/css/main.90debf88.css",
+    "main.js": "/Sato-came-to-tell-me-his-love/static/js/main.a2e3b665.js",
+    "static/js/453.a2fdb7fc.chunk.js": "/Sato-came-to-tell-me-his-love/static/js/453.a2fdb7fc.chunk.js",
+    "index.html": "/Sato-came-to-tell-me-his-love/index.html",
+    "main.90debf88.css.map": "/Sato-came-to-tell-me-his-love/static/css/main.90debf88.css.map",
+    "main.a2e3b665.js.map": "/Sato-came-to-tell-me-his-love/static/js/main.a2e3b665.js.map",
+    "453.a2fdb7fc.chunk.js.map": "/Sato-came-to-tell-me-his-love/static/js/453.a2fdb7fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5aad7d21.css",
-    "static/js/main.cdfd93cb.js"
+    "static/css/main.90debf88.css",
+    "static/js/main.a2e3b665.js"
   ]
 }
