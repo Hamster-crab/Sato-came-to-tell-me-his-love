@@ -18,8 +18,12 @@
   font-size: 80px;
 }
 
+.ThisGame {
+  font-size: 30px;
+}
+
 .ThisGame .title {
-  font-size: 95px;
+  font-size: 60px;
 }
 .ElectronicCommerce {
   font-family: "Noto Serif JP", serif;
